@@ -1,5 +1,5 @@
 "use client"
-import {AbiSolver} from "abirun"
+import {AbiSolver} from "/home/juanc/study/abirun/src/components/AbiSolver"
 
 export default function Home() {
   return (
